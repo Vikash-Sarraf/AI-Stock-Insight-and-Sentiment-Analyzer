@@ -1,0 +1,11 @@
+# Node.js
+/backend/node-server/node_modules/
+/backend/node-server/package-lock.json
+/backend/node-server/.env
+
+# Python
+/backend/python-service/__pycache__/
+/backend/venv/
+
+# MacOS
+.DS_Store
